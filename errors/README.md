@@ -1,6 +1,6 @@
 # Error Library Index
 
-**167 documented errors** across 14 categories.
+**168 documented errors** across 15 categories.
 
 | Category | Errors |
 | --- | --- |
@@ -16,6 +16,7 @@
 | [postgresql](./postgresql/) | 10 |
 | [rabbitmq](./rabbitmq/) | 10 |
 | [redis](./redis/) | 10 |
+| [spring-boot](./spring-boot/) | 1 |
 | [ceph](./ceph/) | 8 |
 | [linstor](./linstor/) | 8 |
 
